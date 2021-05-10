@@ -1,0 +1,266 @@
+ÄÁJE¯0,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:10124
+load:0x40080400,len:5828
+entry 0x400806a8
+
+--- Rotary Encoder Count Matrix ---
+
+1. newCoderIndex: 0 dirIndex: 0
+
+1. newCoderIndex: 1 dirIndex: 4
+
+2. Coder index: 1
+
+1. newCoderIndex: 2 dirIndex: 8
+
+2. Coder index: 2
+
+1. newCoderIndex: 2 dirIndex: 8
+
+1. newCoderIndex: 3 dirIndex: 12
+
+2. Coder index: 3
+
+1. newCoderIndex: 4 dirIndex: 16
+
+2. Coder index: 4
+
+1. newCoderIndex: 5 dirIndex: 20
+
+2. Coder index: 5
+
+1. newCoderIndex: 5 dirIndex: 20
+
+1. newCoderIndex: 6 dirIndex: 24
+
+2. Coder index: 6
+
+1. newCoderIndex: 6 dirIndex: 24
+
+1. newCoderIndex: 7 dirIndex: 28
+
+2. Coder index: 7
+
+1. newCoderIndex: 8 dirIndex: 32
+
+2. Coder index: 8
+
+1. newCoderIndex: 8 dirIndex: 32
+
+1. newCoderIndex: 9 dirIndex: 36
+
+2. Coder index: 9
+
+1. newCoderIndex: 10 dirIndex: 40
+
+2. Coder index: 10
+
+1. newCoderIndex: 11 dirIndex: 44
+
+2. Coder index: 0
+
+1. newCoderIndex: 1 dirIndex: 4
+
+2. Coder index: 1
+
+1. newCoderIndex: 1 dirIndex: 4
+
+1. newCoderIndex: 2 dirIndex: 8
+
+2. Coder index: 2
+
+1. newCoderIndex: 2 dirIndex: 8
+
+1. newCoderIndex: 2 dirIndex: 8
+
+1. newCoderIndex: 2 dirIndex: 8
+
+1. newCoderIndex: 2 dirIndex: 8
+
+1. newCoderIndex: 2 dirIndex: 8
+
+1. newCoderIndex: 3 dirIndex: 12
+
+2. Coder index: 3
+
+1. newCoderIndex: 3 dirIndex: 12
+
+1. newCoderIndex: 4 dirIndex: 16
+
+2. Coder index: 4
+
+1. newCoderIndex: 4 dirIndex: 16
+
+1. newCoderIndex: 5 dirIndex: 20
+
+2. Coder index: 5
+
+1. newCoderIndex: 5 dirIndex: 20
+
+1. newCoderIndex: 4 dirIndex: 16
+
+2. Coder index: 4
+
+1. newCoderIndex: 3 dirIndex: 12
+
+2. Coder index: 3
+
+1. newCoderIndex: 3 dirIndex: 12
+
+1. newCoderIndex: 2 dirIndex: 8
+
+2. Coder index: 2
+
+1. newCoderIndex: 2 dirIndex: 8
+
+1. newCoderIndex: 1 dirIndex: 4
+
+2. Coder index: 1
+
+1. newCoderIndex: 1 dirIndex: 4
+
+1. newCoderIndex: 1 dirIndex: 4
+
+1. newCoderIndex: 0 dirIndex: 0
+
+2. Coder index: 0
+
+1. newCoderIndex: 0 dirIndex: 0
+
+1. newCoderIndex: 255 dirIndex: -4
+
+2. Coder index: 10
+
+1. newCoderIndex: 10 dirIndex: 40
+
+1. newCoderIndex: 10 dirIndex: 40
+
+1. newCoderIndex: 9 dirIndex: 36
+
+2. Coder index: 9
+
+1. newCoderIndex: 9 dirIndex: 36
+
+1. newCoderIndex: 8 dirIndex: 32
+
+2. Coder index: 8
+
+1. newCoderIndex: 7 dirIndex: 28
+
+2. Coder index: 7
+
+1. newCoderIndex: 7 dirIndex: 28
+
+1. newCoderIndex: 7 dirIndex: 28
+
+1. newCoderIndex: 7 dirIndex: 28
+
+1. newCoderIndex: 6 dirIndex: 24
+
+2. Coder index: 6
+
+1. newCoderIndex: 6 dirIndex: 24
+
+1. newCoderIndex: 6 dirIndex: 24
+
+1. newCoderIndex: 6 dirIndex: 24
+
+1. newCoderIndex: 5 dirIndex: 20
+
+2. Coder index: 5
+
+1. newCoderIndex: 5 dirIndex: 20
+
+1. newCoderIndex: 5 dirIndex: 20
+
+1. newCoderIndex: 5 dirIndex: 20
+
+1. newCoderIndex: 4 dirIndex: 16
+
+2. Coder index: 4
+
+1. newCoderIndex: 5 dirIndex: 20
+
+2. Coder index: 5
+
+1. newCoderIndex: 5 dirIndex: 20
+
+1. newCoderIndex: 6 dirIndex: 24
+
+2. Coder index: 6
+
+1. newCoderIndex: 6 dirIndex: 24
+
+1. newCoderIndex: 6 dirIndex: 24
+
+1. newCoderIndex: 7 dirIndex: 28
+
+2. Coder index: 7
+
+1. newCoderIndex: 7 dirIndex: 28
+
+1. newCoderIndex: 7 dirIndex: 28
+
+1. newCoderIndex: 7 dirIndex: 28
+
+1. newCoderIndex: 8 dirIndex: 32
+
+2. Coder index: 8
+
+1. newCoderIndex: 8 dirIndex: 32
+
+1. newCoderIndex: 8 dirIndex: 32
+
+1. newCoderIndex: 8 dirIndex: 32
+
+1. newCoderIndex: 9 dirIndex: 36
+
+2. Coder index: 9
+
+1. newCoderIndex: 9 dirIndex: 36
+
+1. newCoderIndex: 10 dirIndex: 40
+
+2. Coder index: 10
+
+1. newCoderIndex: 10 dirIndex: 40
+
+1. newCoderIndex: 11 dirIndex: 44
+
+2. Coder index: 0
+
+1. newCoderIndex: 0 dirIndex: 0
+
+1. newCoderIndex: 0 dirIndex: 0
+
+1. newCoderIndex: 255 dirIndex: -4
+
+2. Coder index: 10
+
+1. newCoderIndex: 10 dirIndex: 40
+
+1. newCoderIndex: 11 dirIndex: 44
+
+2. Coder index: 0
+
+1. newCoderIndex: 0 dirIndex: 0
+
+1. newCoderIndex: 1 dirIndex: 4
+
+2. Coder index: 1
+
+1. newCoderIndex: 1 dirIndex: 4
+
+1. newCoderIndex: 1 dirIndex: 4
+
+1. newCoderIndex: 2 dirIndex: 8
+
+2. Coder index: 2
+
+1. newCoderIndex: 1 dirIndex: 4
+
+2. Coder index: 1
+
