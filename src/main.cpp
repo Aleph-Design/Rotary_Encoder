@@ -38,6 +38,7 @@ void setup()
 
   pinMode(pin_CLK, INPUT_PULLUP);
   pinMode(pin_DT, INPUT_PULLUP);
+  pinMode(pin_SW, INPUT_PULLUP);
 
   Serial.println("\n--- Rotary Encoder Count Matrix ---\n");
 
@@ -93,6 +94,8 @@ void loop()
 				// select a new radio station.
 				//
 				Serial.printf("2. Coder index: %d\n\n", newCoderIndex);
+
+				
 				oldCoderIndex = newCoderIndex;
 			} 
 
