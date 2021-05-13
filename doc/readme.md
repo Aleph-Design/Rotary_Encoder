@@ -12,13 +12,20 @@ What puzzled me for a while was:
 
 These states has been given a "name":
 pin_DT  H L L H H ... and so on for ever for each detent step
+
 pin_CLK H H L L H ... and so on for ever for each detent step
+
 State:  3 1 0 2 3
 
 The states are used to detect the movements from oldState to newState.
+
 Legal movements are coded 1 for CW direction and -1 for CCW direction.
+
              0  1  2  3 <= newState
 oldState: 0  0 -1  1  1
+
           1  1  0  0 -1
+          
           2 -1  0  0  1
+          
           3  0  1 -1  0
