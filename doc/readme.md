@@ -11,21 +11,24 @@ What puzzled me for a while was:
 3.  The states are "constructed" by the voltage on the pins DT and CLK.
 
 These states has been given a "name":
-pin_DT  H L L H H ... and so on for ever for each detent step
 
-pin_CLK H H L L H ... and so on for ever for each detent step
+pin_DT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H&nbsp;&nbsp;L&nbsp;&nbsp;L&nbsp;&nbsp;H&nbsp;&nbsp;H ... and so on for ever for each detent step
 
-State:  3 1 0 2 3
+pin_CLK&nbsp;&nbsp;&nbsp;H&nbsp;&nbsp;L&nbsp;&nbsp;L&nbsp;&nbsp;H&nbsp;&nbsp;H ... and so on for ever for each detent step
+
+State:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;1&nbsp;&nbsp;0&nbsp;&nbsp;2&nbsp;&nbsp;3
 
 The states are used to detect the movements from oldState to newState.
 
 Legal movements are coded 1 for CW direction and -1 for CCW direction.
 
              0  1  2  3 <= newState
-oldState: 0  0 -1  1  1
+oldState: &nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;1
 
           1  1  0  0 -1
           
           2 -1  0  0  1
           
           3  0  1 -1  0
+
+Well... this editor just sucks, it's much better in the explanation pdf
